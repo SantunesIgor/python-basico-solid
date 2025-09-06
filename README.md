@@ -1,14 +1,14 @@
 # Python Básico - Solyd
 
-> Repositório com conteúdos, exercícios e materiais do curso de **Python Básico** ministrado por Solyd.
+> Repositório com meus exercícios e materiais do curso de **Python Básico** que estou estudando.
 
 ## 📖 Descrição
 
-Este repositório contém os materiais e exercícios do curso **Python Básico**, voltado para iniciantes que desejam aprender programação em Python de forma prática e estruturada.
+Este repositório contém os exercícios e anotações que fiz durante o curso **Python Básico**. O objetivo é organizar meu aprendizado e ter um registro dos conceitos e práticas estudadas.
 
-## 🎯 Objetivos do Curso
+## 🎯 Objetivos do Repositório
 
-- Aprender os fundamentos da linguagem Python.  
-- Desenvolver lógica de programação.  
-- Criar pequenos programas e scripts funcionais.  
-- Preparar o aluno para cursos avançados ou projetos pessoais.
+- Registrar os exercícios feitos durante o curso.  
+- Revisar conceitos fundamentais da linguagem Python.  
+- Acompanhar meu progresso no aprendizado de programação.
+
